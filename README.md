@@ -6,5 +6,5 @@ PROJECT DESCRIPTION :
          . sum of the two cards is shown in screen , if you get < 21 ,it asks to draw a new card ,
          . else if you get == 21 ,you got a black jack
          . else if u get more than 21 you are outof game, there is no new cards are drawn afterwards
-         
+          
       
